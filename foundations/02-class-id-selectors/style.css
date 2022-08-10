@@ -1,3 +1,19 @@
 .paragraph{
-    color: rgb(255, 153, 255);
+    background-color: rgb(255, 153, 255);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+
+#em2{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#em3 , #em4 {
+    font-size: 24px;
+}
+
+#em4{
+    background-color: rgb(153, 255, 153);
+    font-weight: bold;
 }
